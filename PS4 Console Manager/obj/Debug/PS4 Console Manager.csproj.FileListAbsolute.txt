@@ -1,0 +1,8 @@
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\bin\Debug\PS4 Console Manager.exe
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\bin\Debug\PS4 Console Manager.pdb
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4 Console Manager.csprojResolveAssemblyReference.cache
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4_Console_Manager.Form1.resources
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4_Console_Manager.Properties.Resources.resources
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4 Console Manager.csproj.GenerateResource.Cache
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4 Console Manager.exe
+c:\users\utilisateur\documents\visual studio 2012\Projects\PS4 Console Manager\PS4 Console Manager\obj\Debug\PS4 Console Manager.pdb
