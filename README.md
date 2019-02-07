@@ -1,3 +1,16 @@
 # PS4-Testkit-ConsoleManager
 A simple console manager for PS4 devkit/testkit
-https://image.noelshack.com/fichiers/2019/06/2/1549397203-capture.png
+
+# Video :
+
+https://www.youtube.com/watch?v=C0Yy7znezDg
+
+
+# Follow me :
+
+
+➡️➡️ Follow me on Twitter : https://twitter.com/ImMrNiato ⬅️⬅️
+
+➡️➡️ Buy me a lunch : https://www.paypal.me/mrniato1/5 ⬅️⬅️
+
+
